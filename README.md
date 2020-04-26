@@ -1,1 +1,2 @@
-# djangothebest
+# Djangostore by vanproskur
+
